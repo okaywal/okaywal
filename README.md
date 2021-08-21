@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @okaywal
+- 👀 I’m interested in programming
+- 🌱 I’m currently learning Rust
+- 💞️ I’m looking to collaborate on Rust projects, maybe Discord bots?
+- 📫 How to reach me `wal#3674` on Discord!
